@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> the lenzy welcom </title>
+	<title> the lenzy welcom ... </title>
 </head>
 <body>
 
